@@ -92,9 +92,9 @@ paste the Function URL, and compress a photo.
 |---|---|
 | ![Result](screenshots/website-result.png) | ![Buckets](screenshots/s3-buckets.png) |
 
-| Lambda trigger | CloudWatch logs |
+| Lambda trigger 
 |---|---|
-| ![Trigger](screenshots/lambda-trigger.png) | ![Logs](screenshots/cloudwatch-logs.png) |
+| ![Trigger](screenshots/lambda-trigger.png) 
 
 ## Security notes and limitations
 
