@@ -10,6 +10,10 @@ quality and format, and get back a smaller copy in a few seconds - no servers to
 <!-- Replace with your screen recording or GIF -->
 ![Demo](screenshots/demo.gif)
 
+https://github.com/user-attachments/assets/24ada66f-aa97-41ac-a357-0960f5d4af08
+
+
+
 ## Architecture
 
 ![Architecture](architecture.png)
