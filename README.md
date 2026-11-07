@@ -10,6 +10,10 @@ quality and format, and get back a smaller copy in a few seconds - no servers to
 <!-- Replace with your screen recording or GIF -->
 ![Demo](screenshots/demo.gif)
 
+https://github.com/user-attachments/assets/3c26ad80-f3c2-4873-84fd-c5fb2900c564
+
+
+
 ## Architecture
 
 ![Architecture](architecture.png)
@@ -92,9 +96,9 @@ paste the Function URL, and compress a photo.
 |---|---|
 | ![Result](screenshots/website-result.png) | ![Buckets](screenshots/s3-buckets.png) |
 
-| Lambda trigger | CloudWatch logs |
+| Lambda trigger | 
 |---|---|
-| ![Trigger](screenshots/lambda-trigger.png) | ![Logs](screenshots/cloudwatch-logs.png) |
+| ![Trigger](screenshots/lambda-trigger.png) 
 
 ## Security notes and limitations
 
